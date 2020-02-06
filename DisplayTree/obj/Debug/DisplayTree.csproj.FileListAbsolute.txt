@@ -1,0 +1,16 @@
+D:\git_projects\DisplayTree\DisplayTree\bin\Debug\DisplayTree.exe.config
+D:\git_projects\DisplayTree\DisplayTree\bin\Debug\DisplayTree.exe
+D:\git_projects\DisplayTree\DisplayTree\bin\Debug\DisplayTree.pdb
+D:\git_projects\DisplayTree\DisplayTree\bin\Debug\EntityFramework.dll
+D:\git_projects\DisplayTree\DisplayTree\bin\Debug\EntityFramework.SqlServer.dll
+D:\git_projects\DisplayTree\DisplayTree\bin\Debug\EntityFramework.xml
+D:\git_projects\DisplayTree\DisplayTree\bin\Debug\EntityFramework.SqlServer.xml
+D:\git_projects\DisplayTree\DisplayTree\bin\Debug\ru\EntityFramework.resources.dll
+D:\git_projects\DisplayTree\DisplayTree\obj\Debug\DisplayTree.csprojAssemblyReference.cache
+D:\git_projects\DisplayTree\DisplayTree\obj\Debug\DisplayTree.Form1.resources
+D:\git_projects\DisplayTree\DisplayTree\obj\Debug\DisplayTree.Properties.Resources.resources
+D:\git_projects\DisplayTree\DisplayTree\obj\Debug\DisplayTree.csproj.GenerateResource.cache
+D:\git_projects\DisplayTree\DisplayTree\obj\Debug\DisplayTree.csproj.CoreCompileInputs.cache
+D:\git_projects\DisplayTree\DisplayTree\obj\Debug\DisplayTree.csproj.CopyComplete
+D:\git_projects\DisplayTree\DisplayTree\obj\Debug\DisplayTree.exe
+D:\git_projects\DisplayTree\DisplayTree\obj\Debug\DisplayTree.pdb
